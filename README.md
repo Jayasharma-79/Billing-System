@@ -1,4 +1,5 @@
 # Billing System in SAP ABAP
+This program is a billing system created in SAP ABAP. It helps manage the entire billing process in an organized way. Users can log in, manage customers and products, make purchases, and generate invoices. It also has features for payments and reports, with special access for administrators to handle advanced tasks.
 
 ## Features
 1) User Signup/Login: Secure and role-based authentication system.
@@ -20,19 +21,48 @@
 3) Customer Management Screen - Interface to add, view, or modify customer details.
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/c60af125-287a-458f-a1ca-7f56d83c1e9b">
 
-Product Management Screen
+Product Management Screen - Interface to manage product catalogs.
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/ef3e91b2-8fdb-49b1-a7eb-e2edb4168fde">
 
-Interface to manage product catalogs.
-Screenshot Suggestion: Display the product list with options to add, edit, or delete.
-Buy Product Screen
+Buy Product Screen - A form to select products, add to cart, and proceed to payment.
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/efd14159-a1e3-4f82-bde0-47837a6f3ab6">
 
-A form to select products, add to cart, and proceed to payment.
-Screenshot Suggestion: Highlight the cart and payment options visible on the screen.
-Invoice Generation Screen
+Invoice Generation Screen - Displays the invoice for completed transactions.
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/c390f343-67fe-4a25-a710-175089563a2b">
 
-Displays the invoice for completed transactions.
-Screenshot Suggestion: Capture the generated invoice, including product details and payment summary.
-Admin Dashboard
+Admin Dashboard - A summary view for administrators, with restricted actions and reporting features.
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/56c13858-2a64-495b-b163-8b00b0bbd1bd">
 
-A summary view for administrators, with restricted actions and reporting features.
-Screenshot Suggestion: Show admin-exclusive options and reports.
+
+# How It Works
+
+## User Workflow
+
+-> The user signs up or logs in.
+-> Selects products and adds them to the cart.
+-> Proceeds to payment, completes the purchase, and views the invoice.
+
+## Admin Workflow
+
+-> Logs in with admin credentials.
+-> Manages customer and product data.
+-> Accesses sales reports and other administrative functionalities.
+
+# Sample Case
+
+## Case Scenario: User Purchase Flow
+Login: User logs into the system-->Go to 'Product & Service' Tab
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/e61ec05a-e034-448d-ac01-af97690bfd24">
+<img width="749" alt="image" src="https://github.com/user-attachments/assets/770102b6-f235-4d2f-bdff-28972e7377f5">
+
+Select Products : Double click on it to purchase.
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/829aec8f-02ab-460d-afb8-0a128ea3f07c">
+
+Payment: Completes payment via UPI.
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/78f0fb63-d622-4ce5-975c-181710ab3cfb">
+
+Invoice: System generates and displays the invoice.
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/301eb8b0-b081-4ffd-ad32-3cb65f14c564">
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/282f10a8-9e1c-414e-99fa-660f7464d9c1">
+
+
