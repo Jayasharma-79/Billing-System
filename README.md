@@ -51,17 +51,22 @@ Admin Dashboard - A summary view for administrators, with restricted actions and
 # Sample Case
 
 ## Case Scenario: User Purchase Flow
+
 Login: User logs into the system-->Go to 'Product & Service' Tab
+
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/e61ec05a-e034-448d-ac01-af97690bfd24">
 <img width="749" alt="image" src="https://github.com/user-attachments/assets/770102b6-f235-4d2f-bdff-28972e7377f5">
 
 Select Products : Double click on it to purchase.
+
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/829aec8f-02ab-460d-afb8-0a128ea3f07c">
 
 Payment: Completes payment via UPI.
+
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/78f0fb63-d622-4ce5-975c-181710ab3cfb">
 
 Invoice: System generates and displays the invoice.
+
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/301eb8b0-b081-4ffd-ad32-3cb65f14c564">
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/282f10a8-9e1c-414e-99fa-660f7464d9c1">
 
