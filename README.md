@@ -70,4 +70,6 @@ Invoice: System generates and displays the invoice.
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/301eb8b0-b081-4ffd-ad32-3cb65f14c564">
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/282f10a8-9e1c-414e-99fa-660f7464d9c1">
 
+### Thank you for exploring this project! Your feedback and suggestions are always welcome to make this application better.
+
 
